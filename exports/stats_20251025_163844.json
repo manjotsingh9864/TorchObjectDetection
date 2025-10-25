@@ -1,0 +1,19 @@
+{
+    "session_duration": 154.13519740104675,
+    "average_fps": 32.947336934985145,
+    "total_detections": 1000,
+    "detection_by_class": {
+        "bed": 361,
+        "person": 552,
+        "chair": 6,
+        "cell phone": 81
+    },
+    "confidence_stats": {
+        "min": 0.2501876950263977,
+        "max": 0.9740865230560303,
+        "avg": 0.7325091380178929
+    },
+    "model_used": "YOLOv8l",
+    "resolution": "1280x720",
+    "timestamp": "2025-10-25T16:38:44.853825"
+}
